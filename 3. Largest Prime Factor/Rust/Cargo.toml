@@ -1,0 +1,14 @@
+[package]
+name = "solutions"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "solution1"
+path = "solution1.rs"
+
+[[bin]]
+name = "solution2"
+path = "solution2.rs"
+
+[dependencies]
