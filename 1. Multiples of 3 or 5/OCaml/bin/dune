@@ -1,0 +1,6 @@
+(executable
+ (public_name solution1)
+ (name solution1)
+ (modules solution1)
+ (libraries solutions))
+
